@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-
+[![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=kozmarti)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
 	<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kozmarti&show_icons=true" />
 </a>
