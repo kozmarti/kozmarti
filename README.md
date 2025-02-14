@@ -1,4 +1,4 @@
-## Hi there 👋
+![Bannière de mon profil GitHub](header.png)
 
 <!--
 **kozmarti/kozmarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
