@@ -1,5 +1,23 @@
 ![Bannière de mon profil GitHub](header.png)
 
+## 🚀 About Me  
+- 🔭 I’m currently working on a **Next.js personal project** – an application that tracks long-term trekking and displays real-time data.  
+- 🌱 I’m currently learning **LangChain**, a powerful framework for developing **Artificial Intelligence (AI)** applications with **Large Language Models (LLMs)**.  
+- 💡 Interested in **AI, Web Development, and Data Visualization**.  
+- ⚡ Fun fact: I love **hiking, coding, and solving real-world problems with technology**.
+
+  
+## 🛠 Tech Stack  
+- **Frontend:** Next.js, React, ReactNative, TypeScript  
+- **Backend:** Python, Django  
+- **AI/ML:** LangChain
+- **Databases:** PostgreSQL, MongoDB
+- **Other Tools:** Git, Docker
+
+
+## 📫 Connect with Me  
+- LinkedIn: [Marta Kozma](https://www.linkedin.com/in/marta-kozma/)  
+
 <!--
 **kozmarti/kozmarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
