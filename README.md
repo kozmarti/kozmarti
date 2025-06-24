@@ -9,7 +9,7 @@
   
 ## 🛠 Tech Stack  
 - **Frontend:** Next.js, React, ReactNative, TypeScript  
-- **Backend:** Python, Django  
+- **Backend:** Python, Django, Flask, FastAPI
 - **AI/ML:** LangChain
 - **Databases:** PostgreSQL, MongoDB
 - **Other Tools:** Git, Docker
